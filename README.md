@@ -6,7 +6,7 @@
 - User-Friendly Search & Checkout
 - Fully Responsive
 ## Demo
-
+https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 ## Run Locally
 
 Clone the project
