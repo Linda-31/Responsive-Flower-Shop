@@ -1,7 +1,6 @@
 # Flower Shop
 
-A Ecommerce Website made with React.js Framework
-
+<b> The Flower Shop is a beautifully designed platform for shopping fresh, beautiful flowers and thoughtful gifts. It is a responsive web application built with React.js, offering seamless e-commerce functionality.<b>
 ## Features
 
 - User-Friendly Search & Checkout
