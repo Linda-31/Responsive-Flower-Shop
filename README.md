@@ -4,7 +4,7 @@ A Ecommerce Website made with React.js Framework
 
 ## Features
 
-- Easy to integrate with Backend
+- User-Friendly Search & Checkout
 - Fully Responsive
 
 - ## Run Locally
@@ -34,6 +34,6 @@ Start the server
 ## Tech Stack
 
 * [React](https://reactjs.org/)
-* [Material ui](https://getbootstrap.com/)
+* [Material ui](https://mui.com/material-ui)
 * [Stripe Checkout](https://www.npmjs.com/package/react-stripe-checkout)
-* [Fake Users API]((https://api.escuelajs.co/api/v1/users)
+* [Fake Users API](https://api.escuelajs.co/api/v1/users)
