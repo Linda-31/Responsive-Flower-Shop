@@ -35,5 +35,5 @@ Start the server
 
 * [React](https://reactjs.org/)
 * [Material ui](https://getbootstrap.com/)
-* [Fake Users API]((https://api.escuelajs.co/api/v1/users)
 * [Stripe Checkout](https://www.npmjs.com/package/react-stripe-checkout)
+* [Fake Users API]((https://api.escuelajs.co/api/v1/users)
