@@ -7,7 +7,7 @@ A Ecommerce Website made with React.js Framework
 - User-Friendly Search & Checkout
 - Fully Responsive
 
-- ## Run Locally
+## Run Locally
 
 Clone the project
 
