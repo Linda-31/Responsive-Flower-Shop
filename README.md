@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 <img src="https://github.com/user-attachments/assets/a4b6849a-238c-4439-a4c8-d13dc7832600"/>
 <h5>Cart Page</h5>
 <img src="https://github.com/user-attachments/assets/7852e161-e641-46f2-8d32-fc4c18f5da99"/>
-## Run Locally
 
+## Run Locally
 Clone the project
 
 ```bash
