@@ -9,9 +9,9 @@
 https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 ## Screenshots
 <h1>Login Page</h1>
-![Image](https://github.com/user-attachments/assets/2f580644-3ac1-42c6-a625-4634f86bd828)
+<img>https://github.com/user-attachments/assets/2f580644-3ac1-42c6-a625-4634f86bd828</img>
 <h1>SignUp Page</h1>
-![Image](https://github.com/user-attachments/assets/e23872fc-309a-4b33-aebd-d865d0a0b50c)
+<img>https://github.com/user-attachments/assets/e23872fc-309a-4b33-aebd-d865d0a0b50c<img>
 ## Run Locally
 
 Clone the project
