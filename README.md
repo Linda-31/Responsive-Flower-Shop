@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 <h5>Home Page</h5>
 <img src="https://github.com/user-attachments/assets/2f2c9a95-696a-4866-88f6-ddc9d0e50253"/>
 <h5>Products Page</h5>
-<img src="https://github.com/user-attachments/assets/e4191586-073f-440e-92c1-7b747431257a"/>
+<img src="https://github.com/user-attachments/assets/1e84a1b7-42f5-4d93-bad9-88824b796d17"/>
 <h5>Product-Detail Page</h5>
 <img src="https://github.com/user-attachments/assets/a4b6849a-238c-4439-a4c8-d13dc7832600"/>
 <h5>Cart Page</h5>
