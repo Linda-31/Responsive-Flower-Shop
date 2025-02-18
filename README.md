@@ -16,12 +16,6 @@ https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 <img src="https://github.com/user-attachments/assets/a4b6849a-238c-4439-a4c8-d13dc7832600"/>
 <h5>Cart Page</h5>
 <img src="https://github.com/user-attachments/assets/7852e161-e641-46f2-8d32-fc4c18f5da99"/>
-<h5>Payment Page</h5>
-<img src="https://github.com/user-attachments/assets/db8850d1-c1ab-408a-a8d4-543469420942"/>
-<h5>Checkout</h5>
-<img src="https://github.com/user-attachments/assets/c08ed4fd-043a-4cf1-9aab-0cc136c78e3a"/>
-<h5>Success Page</h5>
-<img src="https://github.com/user-attachments/assets/25dc1d93-bf72-4590-a9fe-0ee91f7254d3"/>
 
   
 ## Run Locally
