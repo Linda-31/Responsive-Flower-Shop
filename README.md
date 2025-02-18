@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/9b1206d3-7179-4acc-8901-f4cdf0379307
 <img src="https://github.com/user-attachments/assets/db8850d1-c1ab-408a-a8d4-543469420942"/>
 <h5>Checkout</h5>
 <img src="https://github.com/user-attachments/assets/c08ed4fd-043a-4cf1-9aab-0cc136c78e3a"/>
-<h5>Sccess Page</h5>
+<h5>Success Page</h5>
 <img src="https://github.com/user-attachments/assets/25dc1d93-bf72-4590-a9fe-0ee91f7254d3"/>
 
   
